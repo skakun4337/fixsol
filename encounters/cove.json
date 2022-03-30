@@ -1,0 +1,511 @@
+[
+  [
+    "Deeprealm Hunter"
+  ],
+  [
+    "Spiney Whale"
+  ],
+  [
+    "Coast Charger",
+    "Coast Charger"
+  ],
+  [
+    "Coast Charger",
+    "Surf Strider"
+  ],
+  [
+    "Coastline Sawbeak",
+    "Coastline Sawbeak"
+  ],
+  [
+    "Dainty Wavehopper",
+    "Dainty Wavehopper"
+  ],
+  [
+    "Daydream Puffer",
+    "Daydream Puffer"
+  ],
+  [
+    "Green-Breasted Sawbeak",
+    "Coastline Sawbeak"
+  ],
+  [
+    "Green-Breasted Sawbeak",
+    "Green-Breasted Sawbeak"
+  ],
+  [
+    "Highfin Sea Serpent",
+    "Highfin Sea Serpent"
+  ],
+  [
+    "Igueel Matriarch",
+    "Igueel Matriarch"
+  ],
+  [
+    "Leopard Coralclimber",
+    "Leopard Coralclimber"
+  ],
+  [
+    "Maren Defender",
+    "Maren Defender"
+  ],
+  [
+    "Maren Defender",
+    "Maren Spearmaiden"
+  ],
+  [
+    "Maren Sorceress",
+    "Maren Sorceress"
+  ],
+  [
+    "Maren Sorceress",
+    "Redfin Wavespinner"
+  ],
+  [
+    "Maren Spearmaiden",
+    "Maren Spearmaiden"
+  ],
+  [
+    "Mirage Puffer",
+    "Daydream Puffer"
+  ],
+  [
+    "Mirage Puffer",
+    "Mirage Puffer"
+  ],
+  [
+    "Mottled Sea Serpent",
+    "Highfin Sea Serpent"
+  ],
+  [
+    "Mottled Sea Serpent",
+    "Mottled Sea Serpent"
+  ],
+  [
+    "Murkbottom Gull",
+    "Murkbottom Gull"
+  ],
+  [
+    "Murkbottom Gull",
+    "Tradewinds Gull"
+  ],
+  [
+    "Noxious Coralclimber",
+    "Leopard Coralclimber"
+  ],
+  [
+    "Noxious Coralclimber",
+    "Noxious Coralclimber"
+  ],
+  [
+    "Oceansurf Magus",
+    "Oceansurf Magus"
+  ],
+  [
+    "Oceansurf Magus",
+    "Waveswell Sorcerer"
+  ],
+  [
+    "Redfin Wavespinner",
+    "Maren Sorceress"
+  ],
+  [
+    "Redfin Wavespinner",
+    "Redfin Wavespinner"
+  ],
+  [
+    "Riptide Clipper",
+    "Riptide Clipper"
+  ],
+  [
+    "Sandshore Snipper",
+    "Riptide Clipper"
+  ],
+  [
+    "Sandshore Snipper",
+    "Sandshore Snipper"
+  ],
+  [
+    "Surf Strider",
+    "Surf Strider"
+  ],
+  [
+    "Toxic Igueel",
+    "Igueel Matriarch"
+  ],
+  [
+    "Toxic Igueel",
+    "Toxic Igueel"
+  ],
+  [
+    "Tradewinds Gull",
+    "Tradewinds Gull"
+  ],
+  [
+    "Vivid Wavehopper",
+    "Dainty Wavehopper"
+  ],
+  [
+    "Vivid Wavehopper",
+    "Vivid Wavehopper"
+  ],
+  [
+    "Waveswell Sorcerer",
+    "Waveswell Sorcerer"
+  ],
+  [
+    "Coast Charger",
+    "Coast Charger",
+    "Coast Charger"
+  ],
+  [
+    "Coast Charger",
+    "Highfin Sea Serpent",
+    "Surf Strider"
+  ],
+  [
+    "Coast Charger",
+    "Surf Strider",
+    "Coast Charger"
+  ],
+  [
+    "Coastline Sawbeak",
+    "Coastline Sawbeak",
+    "Coastline Sawbeak"
+  ],
+  [
+    "Coastline Sawbeak",
+    "Green-Breasted Sawbeak",
+    "Coastline Sawbeak"
+  ],
+  [
+    "Coastline Sawbeak",
+    "Murkbottom Gull",
+    "Green-Breasted Sawbeak"
+  ],
+  [
+    "Dainty Wavehopper",
+    "Dainty Wavehopper",
+    "Dainty Wavehopper"
+  ],
+  [
+    "Dainty Wavehopper",
+    "Maren Sorceress",
+    "Vivid Wavehopper"
+  ],
+  [
+    "Dainty Wavehopper",
+    "Vivid Wavehopper",
+    "Dainty Wavehopper"
+  ],
+  [
+    "Daydream Puffer",
+    "Daydream Puffer",
+    "Daydream Puffer"
+  ],
+  [
+    "Daydream Puffer",
+    "Mirage Puffer",
+    "Daydream Puffer"
+  ],
+  [
+    "Daydream Puffer",
+    "Waveswell Sorcerer",
+    "Mirage Puffer"
+  ],
+  [
+    "Green-Breasted Sawbeak",
+    "Coastline Sawbeak",
+    "Green-Breasted Sawbeak"
+  ],
+  [
+    "Green-Breasted Sawbeak",
+    "Green-Breasted Sawbeak",
+    "Green-Breasted Sawbeak"
+  ],
+  [
+    "Highfin Sea Serpent",
+    "Highfin Sea Serpent",
+    "Highfin Sea Serpent"
+  ],
+  [
+    "Highfin Sea Serpent",
+    "Igueel Matriarch",
+    "Mottled Sea Serpent"
+  ],
+  [
+    "Highfin Sea Serpent",
+    "Mottled Sea Serpent",
+    "Highfin Sea Serpent"
+  ],
+  [
+    "Igueel Matriarch",
+    "Igueel Matriarch",
+    "Igueel Matriarch"
+  ],
+  [
+    "Igueel Matriarch",
+    "Toxic Igueel",
+    "Igueel Matriarch"
+  ],
+  [
+    "Igueel Matriarch",
+    "Tradewinds Gull",
+    "Toxic Igueel"
+  ],
+  [
+    "Leopard Coralclimber",
+    "Dainty Wavehopper",
+    "Noxious Coralclimber"
+  ],
+  [
+    "Leopard Coralclimber",
+    "Leopard Coralclimber",
+    "Leopard Coralclimber"
+  ],
+  [
+    "Leopard Coralclimber",
+    "Noxious Coralclimber",
+    "Leopard Coralclimber"
+  ],
+  [
+    "Maren Defender",
+    "Maren Defender",
+    "Maren Defender"
+  ],
+  [
+    "Maren Defender",
+    "Maren Spearmaiden",
+    "Maren Defender"
+  ],
+  [
+    "Maren Defender",
+    "Mottled Sea Serpent",
+    "Maren Spearmaiden"
+  ],
+  [
+    "Maren Sorceress",
+    "Maren Sorceress",
+    "Maren Sorceress"
+  ],
+  [
+    "Maren Sorceress",
+    "Redfin Wavespinner",
+    "Maren Sorceress"
+  ],
+  [
+    "Maren Sorceress",
+    "Toxic Igueel",
+    "Redfin Wavespinner"
+  ],
+  [
+    "Maren Spearmaiden",
+    "Leopard Coralclimber",
+    "Maren Defender"
+  ],
+  [
+    "Maren Spearmaiden",
+    "Maren Defender",
+    "Maren Spearmaiden"
+  ],
+  [
+    "Maren Spearmaiden",
+    "Maren Spearmaiden",
+    "Maren Spearmaiden"
+  ],
+  [
+    "Mirage Puffer",
+    "Daydream Puffer",
+    "Mirage Puffer"
+  ],
+  [
+    "Mirage Puffer",
+    "Maren Defender",
+    "Daydream Puffer"
+  ],
+  [
+    "Mirage Puffer",
+    "Mirage Puffer",
+    "Mirage Puffer"
+  ],
+  [
+    "Mottled Sea Serpent",
+    "Highfin Sea Serpent",
+    "Mottled Sea Serpent"
+  ],
+  [
+    "Mottled Sea Serpent",
+    "Mottled Sea Serpent",
+    "Mottled Sea Serpent"
+  ],
+  [
+    "Mottled Sea Serpent",
+    "Sandshore Snipper",
+    "Highfin Sea Serpent"
+  ],
+  [
+    "Murkbottom Gull",
+    "Murkbottom Gull",
+    "Murkbottom Gull"
+  ],
+  [
+    "Murkbottom Gull",
+    "Noxious Coralclimber",
+    "Tradewinds Gull"
+  ],
+  [
+    "Murkbottom Gull",
+    "Tradewinds Gull",
+    "Murkbottom Gull"
+  ],
+  [
+    "Noxious Coralclimber",
+    "Leopard Coralclimber",
+    "Noxious Coralclimber"
+  ],
+  [
+    "Noxious Coralclimber",
+    "Mirage Puffer",
+    "Leopard Coralclimber"
+  ],
+  [
+    "Noxious Coralclimber",
+    "Noxious Coralclimber",
+    "Noxious Coralclimber"
+  ],
+  [
+    "Oceansurf Magus",
+    "Oceansurf Magus",
+    "Oceansurf Magus"
+  ],
+  [
+    "Oceansurf Magus",
+    "Redfin Wavespinner",
+    "Waveswell Sorcerer"
+  ],
+  [
+    "Oceansurf Magus",
+    "Waveswell Sorcerer",
+    "Oceansurf Magus"
+  ],
+  [
+    "Redfin Wavespinner",
+    "Coast Charger",
+    "Maren Sorceress"
+  ],
+  [
+    "Redfin Wavespinner",
+    "Maren Sorceress",
+    "Redfin Wavespinner"
+  ],
+  [
+    "Redfin Wavespinner",
+    "Redfin Wavespinner",
+    "Redfin Wavespinner"
+  ],
+  [
+    "Riptide Clipper",
+    "Daydream Puffer",
+    "Sandshore Snipper"
+  ],
+  [
+    "Riptide Clipper",
+    "Riptide Clipper",
+    "Riptide Clipper"
+  ],
+  [
+    "Riptide Clipper",
+    "Sandshore Snipper",
+    "Riptide Clipper"
+  ],
+  [
+    "Sandshore Snipper",
+    "Riptide Clipper",
+    "Sandshore Snipper"
+  ],
+  [
+    "Sandshore Snipper",
+    "Sandshore Snipper",
+    "Sandshore Snipper"
+  ],
+  [
+    "Sandshore Snipper",
+    "Vivid Wavehopper",
+    "Riptide Clipper"
+  ],
+  [
+    "Surf Strider",
+    "Coast Charger",
+    "Surf Strider"
+  ],
+  [
+    "Surf Strider",
+    "Coastline Sawbeak",
+    "Coast Charger"
+  ],
+  [
+    "Surf Strider",
+    "Surf Strider",
+    "Surf Strider"
+  ],
+  [
+    "Toxic Igueel",
+    "Igueel Matriarch",
+    "Toxic Igueel"
+  ],
+  [
+    "Toxic Igueel",
+    "Surf Strider",
+    "Igueel Matriarch"
+  ],
+  [
+    "Toxic Igueel",
+    "Toxic Igueel",
+    "Toxic Igueel"
+  ],
+  [
+    "Tradewinds Gull",
+    "Murkbottom Gull",
+    "Tradewinds Gull"
+  ],
+  [
+    "Tradewinds Gull",
+    "Riptide Clipper",
+    "Murkbottom Gull"
+  ],
+  [
+    "Tradewinds Gull",
+    "Tradewinds Gull",
+    "Tradewinds Gull"
+  ],
+  [
+    "Vivid Wavehopper",
+    "Dainty Wavehopper",
+    "Vivid Wavehopper"
+  ],
+  [
+    "Vivid Wavehopper",
+    "Oceansurf Magus",
+    "Dainty Wavehopper"
+  ],
+  [
+    "Vivid Wavehopper",
+    "Vivid Wavehopper",
+    "Vivid Wavehopper"
+  ],
+  [
+    "Waveswell Sorcerer",
+    "Maren Spearmaiden",
+    "Oceansurf Magus"
+  ],
+  [
+    "Waveswell Sorcerer",
+    "Oceansurf Magus",
+    "Waveswell Sorcerer"
+  ],
+  [
+    "Waveswell Sorcerer",
+    "Waveswell Sorcerer",
+    "Waveswell Sorcerer"
+  ]
+]

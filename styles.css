@@ -1,0 +1,100 @@
+body {
+    background-color: #cadae0;
+}
+
+.header {
+    background-color: #515b5f;
+    color: white;
+    max-width: 100%;
+    width: 980px;
+    margin: 0 auto 10px auto;
+    padding: 3px 0;
+    text-align: center;
+    border-radius: 0 0 10px 10px;
+}
+
+.header a {
+    color: #cadae0;
+}
+
+.header a:hover {
+    color: #7fd5ec;
+}
+
+.container {
+    background-color: #f3fbff;
+    max-width: 100%;
+    width: 860px;
+    margin: 0 auto 10px auto;
+    border-radius: 10px;
+    justify-content: space-around;
+}
+
+.column {
+    padding: 10px;
+}
+
+h3 {
+    text-align: center;
+    border-bottom: 1px solid #515b5f;
+}
+
+input {
+    float: right;
+}
+
+button {
+    font-size: 0.9em;
+    border-radius: 6px;
+    padding: 6px 10px;
+    background-color: #515b5f;
+    color: white;
+    border-color: #79878c #505a62 #505a62 #79878c;
+}
+
+button:active {
+    border-color: #505a62 #79878c #79878c #505a62;
+}
+
+.delete {
+    background-color: #530000;
+    color: white;
+    border-radius: 50%;
+    border: 2px solid;
+    border-color: #910000 #280000 #280000 #910000;
+    margin-bottom: 1px;
+}
+
+.delete:active {
+    border-color: #280000 #910000 #910000 #280000;
+}
+
+.inline-input {
+    float: none;
+}
+
+.bottom {
+    text-align: center;
+    margin: 5px;
+}
+
+.button-label {
+    margin: 5px 0;
+}
+
+.bottom ol {
+    text-align: left;
+}
+
+.log {
+    padding: 5px 15px;
+}
+
+.log ul {
+    margin: 0.5em 0;
+}
+
+.log h4 {
+    margin: 0.5em 0;
+    border-bottom: 1px solid black;
+}

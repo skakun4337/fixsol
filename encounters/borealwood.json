@@ -1,0 +1,539 @@
+[
+  [
+    "Coarsefur Yeti"
+  ],
+  [
+    "Auburn Woolly Walrus",
+    "Auburn Woolly Walrus"
+  ],
+  [
+    "Auburn Woolly Walrus",
+    "Woolly Walrus"
+  ],
+  [
+    "Black Wolf",
+    "Winter Wolf"
+  ],
+  [
+    "Bramblecrown Stoat",
+    "Bramblecrown Stoat"
+  ],
+  [
+    "Bramblecrown Stoat",
+    "Pebblehide Stoat"
+  ],
+  [
+    "Bullephant",
+    "Bullephant"
+  ],
+  [
+    "Bullephant",
+    "Mammophant"
+  ],
+  [
+    "Coarsefur Yeti",
+    "Poultrygeist"
+  ],
+  [
+    "Coarsefur Yeti",
+    "Snowfall Elk"
+  ],
+  [
+    "Deadwood Strangler",
+    "Deadwood Strangler"
+  ],
+  [
+    "Deadwood Strangler",
+    "Frosttangle Strangler"
+  ],
+  [
+    "Elk",
+    "Elk"
+  ],
+  [
+    "Frosttangle Strangler",
+    "Deadwood Strangler"
+  ],
+  [
+    "Frosttangle Strangler",
+    "Frosttangle Strangler"
+  ],
+  [
+    "Glassbound Gustvul",
+    "Glassbound Gustvul"
+  ],
+  [
+    "Glassbound Gustvul",
+    "Glassbound Solarvul"
+  ],
+  [
+    "Glassbound Solarvul",
+    "Glassbound Gustvul"
+  ],
+  [
+    "Glassbound Solarvul",
+    "Glassbound Solarvul"
+  ],
+  [
+    "Hoarfrost Mauler",
+    "Hoarfrost Mauler"
+  ],
+  [
+    "Longneck Hunter",
+    "Longneck Wanderer"
+  ],
+  [
+    "Mammophant",
+    "Bullephant"
+  ],
+  [
+    "Mammophant",
+    "Mammophant"
+  ],
+  [
+    "Maned Rasa",
+    "Squall Rasa"
+  ],
+  [
+    "Pebblehide Stoat",
+    "Bramblecrown Stoat"
+  ],
+  [
+    "Pebblehide Stoat",
+    "Pebblehide Stoat"
+  ],
+  [
+    "Permafrost Impaler",
+    "Nochnyr"
+  ],
+  [
+    "Poultrygeist",
+    "Poultrygeist"
+  ],
+  [
+    "Poultrygeist",
+    "Woodland Turkey"
+  ],
+  [
+    "Snowfall Elk",
+    "Snowfall Elk"
+  ],
+  [
+    "Snowy Owlynx",
+    "Snowy Owlynx"
+  ],
+  [
+    "Snowy Owlynx",
+    "Teardrop Owlynx"
+  ],
+  [
+    "Teardrop Owlynx",
+    "Snowy Owlynx"
+  ],
+  [
+    "Teardrop Owlynx",
+    "Teardrop Owlynx"
+  ],
+  [
+    "Treehorn Wolpertinger",
+    "Treehorn Wolpertinger"
+  ],
+  [
+    "Treehorn Wolpertinger",
+    "Wolpertinger"
+  ],
+  [
+    "Venerable Shalebuck",
+    "Shalebuck"
+  ],
+  [
+    "Wolpertinger",
+    "Treehorn Wolpertinger"
+  ],
+  [
+    "Wolpertinger",
+    "Wolpertinger"
+  ],
+  [
+    "Woodland Turkey",
+    "Woodland Turkey"
+  ],
+  [
+    "Woolly Walrus",
+    "Auburn Woolly Walrus"
+  ],
+  [
+    "Woolly Walrus",
+    "Woolly Walrus"
+  ],
+  [
+    "Auburn Woolly Walrus",
+    "Auburn Woolly Walrus",
+    "Auburn Woolly Walrus"
+  ],
+  [
+    "Auburn Woolly Walrus",
+    "Woolly Walrus",
+    "Auburn Woolly Walrus"
+  ],
+  [
+    "Black Wolf",
+    "Black Wolf",
+    "Black Wolf"
+  ],
+  [
+    "Black Wolf",
+    "Maned Rasa",
+    "Black Wolf"
+  ],
+  [
+    "Black Wolf",
+    "Winter Wolf",
+    "Black Wolf"
+  ],
+  [
+    "Bramblecrown Stoat",
+    "Bramblecrown Stoat",
+    "Bramblecrown Stoat"
+  ],
+  [
+    "Bramblecrown Stoat",
+    "Pebblehide Stoat",
+    "Bramblecrown Stoat"
+  ],
+  [
+    "Bullephant",
+    "Bullephant",
+    "Bullephant"
+  ],
+  [
+    "Bullephant",
+    "Mammophant",
+    "Bullephant"
+  ],
+  [
+    "Bullephant",
+    "Pebblehide Stoat",
+    "Mammophant"
+  ],
+  [
+    "Deadwood Strangler",
+    "Deadwood Strangler",
+    "Deadwood Strangler"
+  ],
+  [
+    "Deadwood Strangler",
+    "Frosttangle Strangler",
+    "Deadwood Strangler"
+  ],
+  [
+    "Deadwood Strangler",
+    "Woolly Walrus",
+    "Frosttangle Strangler"
+  ],
+  [
+    "Elk",
+    "Elk",
+    "Elk"
+  ],
+  [
+    "Elk",
+    "Maned Rasa",
+    "Elk"
+  ],
+  [
+    "Elk",
+    "Nochnyr",
+    "Snowfall Elk"
+  ],
+  [
+    "Elk",
+    "Snowfall Elk",
+    "Elk"
+  ],
+  [
+    "Frosttangle Strangler",
+    "Deadwood Strangler",
+    "Frosttangle Strangler"
+  ],
+  [
+    "Frosttangle Strangler",
+    "Frosttangle Strangler",
+    "Frosttangle Strangler"
+  ],
+  [
+    "Glassbound Gustvul",
+    "Bullephant",
+    "Glassbound Solarvul"
+  ],
+  [
+    "Glassbound Gustvul",
+    "Glassbound Gustvul",
+    "Glassbound Gustvul"
+  ],
+  [
+    "Glassbound Gustvul",
+    "Glassbound Solarvul",
+    "Glassbound Gustvul"
+  ],
+  [
+    "Glassbound Solarvul",
+    "Glassbound Gustvul",
+    "Glassbound Solarvul"
+  ],
+  [
+    "Glassbound Solarvul",
+    "Glassbound Solarvul",
+    "Glassbound Solarvul"
+  ],
+  [
+    "Hoarfrost Mauler",
+    "Elk",
+    "Hoarfrost Mauler"
+  ],
+  [
+    "Hoarfrost Mauler",
+    "Hoarfrost Mauler",
+    "Hoarfrost Mauler"
+  ],
+  [
+    "Longneck Hunter",
+    "Longneck Hunter",
+    "Longneck Hunter"
+  ],
+  [
+    "Longneck Hunter",
+    "Longneck Wanderer",
+    "Longneck Hunter"
+  ],
+  [
+    "Longneck Wanderer",
+    "Longneck Hunter",
+    "Longneck Wanderer"
+  ],
+  [
+    "Longneck Wanderer",
+    "Longneck Wanderer",
+    "Longneck Wanderer"
+  ],
+  [
+    "Mammophant",
+    "Bullephant",
+    "Mammophant"
+  ],
+  [
+    "Mammophant",
+    "Mammophant",
+    "Mammophant"
+  ],
+  [
+    "Maned Rasa",
+    "Maned Rasa",
+    "Maned Rasa"
+  ],
+  [
+    "Maned Rasa",
+    "Poultrygeist",
+    "Squall Rasa"
+  ],
+  [
+    "Maned Rasa",
+    "Squall Rasa",
+    "Maned Rasa"
+  ],
+  [
+    "Nochnyr",
+    "Nochnyr",
+    "Nochnyr"
+  ],
+  [
+    "Nochnyr",
+    "Permafrost Impaler",
+    "Nochnyr"
+  ],
+  [
+    "Pebblehide Stoat",
+    "Bramblecrown Stoat",
+    "Pebblehide Stoat"
+  ],
+  [
+    "Pebblehide Stoat",
+    "Deadwood Strangler",
+    "Bramblecrown Stoat"
+  ],
+  [
+    "Pebblehide Stoat",
+    "Pebblehide Stoat",
+    "Pebblehide Stoat"
+  ],
+  [
+    "Permafrost Impaler",
+    "Hoarfrost Mauler",
+    "Nochnyr"
+  ],
+  [
+    "Permafrost Impaler",
+    "Nochnyr",
+    "Permafrost Impaler"
+  ],
+  [
+    "Permafrost Impaler",
+    "Permafrost Impaler",
+    "Permafrost Impaler"
+  ],
+  [
+    "Permafrost Impaler",
+    "Woodland Turkey",
+    "Nochnyr"
+  ],
+  [
+    "Poultrygeist",
+    "Hoarfrost Mauler",
+    "Woodland Turkey"
+  ],
+  [
+    "Poultrygeist",
+    "Poultrygeist",
+    "Poultrygeist"
+  ],
+  [
+    "Poultrygeist",
+    "Woodland Turkey",
+    "Poultrygeist"
+  ],
+  [
+    "Shalebuck",
+    "Shalebuck",
+    "Shalebuck"
+  ],
+  [
+    "Shalebuck",
+    "Venerable Shalebuck",
+    "Shalebuck"
+  ],
+  [
+    "Snowfall Elk",
+    "Elk",
+    "Snowfall Elk"
+  ],
+  [
+    "Snowfall Elk",
+    "Snowfall Elk",
+    "Snowfall Elk"
+  ],
+  [
+    "Snowfall Elk",
+    "Venerable Shalebuck",
+    "Maned Rasa"
+  ],
+  [
+    "Snowy Owlynx",
+    "Snowy Owlynx",
+    "Snowy Owlynx"
+  ],
+  [
+    "Snowy Owlynx",
+    "Teardrop Owlynx",
+    "Snowy Owlynx"
+  ],
+  [
+    "Squall Rasa",
+    "Maned Rasa",
+    "Squall Rasa"
+  ],
+  [
+    "Squall Rasa",
+    "Squall Rasa",
+    "Squall Rasa"
+  ],
+  [
+    "Squall Rasa",
+    "Winter Wolf",
+    "Squall Rasa"
+  ],
+  [
+    "Teardrop Owlynx",
+    "Glassbound Gustvul",
+    "Snowy Owlynx"
+  ],
+  [
+    "Teardrop Owlynx",
+    "Snowy Owlynx",
+    "Teardrop Owlynx"
+  ],
+  [
+    "Teardrop Owlynx",
+    "Teardrop Owlynx",
+    "Teardrop Owlynx"
+  ],
+  [
+    "Treehorn Wolpertinger",
+    "Treehorn Wolpertinger",
+    "Treehorn Wolpertinger"
+  ],
+  [
+    "Treehorn Wolpertinger",
+    "Wolpertinger",
+    "Treehorn Wolpertinger"
+  ],
+  [
+    "Venerable Shalebuck",
+    "Venerable Shalebuck",
+    "Venerable Shalebuck"
+  ],
+  [
+    "Winter Wolf",
+    "Black Wolf",
+    "Winter Wolf"
+  ],
+  [
+    "Winter Wolf",
+    "Winter Wolf",
+    "Winter Wolf"
+  ],
+  [
+    "Wolpertinger",
+    "Teardrop Owlynx",
+    "Treehorn Wolpertinger"
+  ],
+  [
+    "Wolpertinger",
+    "Treehorn Wolpertinger",
+    "Wolpertinger"
+  ],
+  [
+    "Wolpertinger",
+    "Wolpertinger",
+    "Wolpertinger"
+  ],
+  [
+    "Woodland Turkey",
+    "Poultrygeist",
+    "Woodland Turkey"
+  ],
+  [
+    "Woodland Turkey",
+    "Snowfall Elk",
+    "Poultrygeist"
+  ],
+  [
+    "Woodland Turkey",
+    "Woodland Turkey",
+    "Woodland Turkey"
+  ],
+  [
+    "Woolly Walrus",
+    "Auburn Woolly Walrus",
+    "Woolly Walrus"
+  ],
+  [
+    "Woolly Walrus",
+    "Wolpertinger",
+    "Auburn Woolly Walrus"
+  ],
+  [
+    "Woolly Walrus",
+    "Woolly Walrus",
+    "Woolly Walrus"
+  ]
+]

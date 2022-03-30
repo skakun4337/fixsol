@@ -1,0 +1,142 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="icon" href="favicon.ico">
+    <link rel="stylesheet" href="https://unpkg.com/purecss@2.0.3/build/pure-min.css">
+    <link rel="stylesheet" href="https://unpkg.com/purecss@2.0.3/build/grids-responsive-min.css" />
+    <link rel="stylesheet" href="styles.css">
+    <title>Coliseum Turn Order Calculator</title>
+    <!-- This tool uses Vue to automatically bind variables and set listeners.
+         It's a little bit like Angular, but instead of declaring templates and components in
+         files specific to Angular, this tool declares a single Vue component in the one JavaScript
+         file. This makes both the HTML and Javascript simpler to maintain. -->
+    <!-- As a result of using Vue, the HTML you see in your browser dev tools is different from
+         the initial HTML code I wrote, since Vue automatically initializes elements as soon as
+         the page loads. If you want to see the initial code, you can look at the index.html file
+         returned as a response to your browser's request. -->
+</head>
+
+<body>
+    <div class="header">
+        <h1>Coliseum Turn Order Calculator v1.1.0</h1>
+        <p><a href="about.html">About</a> | <a href="changelog.html">Changelog</a> | <a href="https://www1.flightrising.com/forums/gde/2945135">Forum Thread</a></p>
+    </div>
+    <div id="app" class="container pure-g">
+        <div class="column pure-u-1 pure-u-md-11-24">
+            <h3>Dragons</h3>
+            <!-- This list is automatically updated based on the "dragons" array declared in the Vue object. -->
+            <ol>
+                <li v-for="dragon in dragons">{{dragon.name}} (QCK = {{dragon.quickness}}, {{dragon.ambush}} Ambushes)
+                    <button type="button" class="delete" @click="deleteDragon(dragon)">X</button>
+                </li>
+            </ol>
+            <h4>Add Dragon</h4>
+            <p>Name: <input type="text" v-model="newDragon.name"></p>
+            <p>QCK: <input type="number" min="0" v-model="newDragon.quickness"></p>
+            <p># of Ambushes: <input type="number" min="0" max="2" v-model="newDragon.numAmbush"></p>
+            <p><button type="button" @click="addDragon">Add</button></p>
+        </div>
+
+        <div class="column pure-u-1 pure-u-md-11-24">
+            <h3>Monsters</h3>
+            <!-- This list is automatically updated based on the "monsters" array declared in the Vue object. -->
+            <ol>
+                <li v-for="monster in monsters">{{monster.name}} (QCK = {{monster.quickness}})
+                    <button type="button" class="delete" @click="deleteMonster(monster)">X</button>
+                </li>
+            </ol>
+
+            <p>Select a method to add monsters:</p>
+            <p>
+                <button type="button" @click="addType = 'encounter'">Load Encounter</button>
+                <button type="button" @click="addType = 'monster'">Load Monster</button>
+                <button type="button" @click="addType = 'custom'">Create Custom</button>
+            </p>
+
+            <div v-show="addType === 'encounter'">
+                <h4>Load Encounter</h4>
+                <p>Choose a venue:
+                    <select @change="loadEncounters($event.target.value)">
+                        <option>-- Select --</option>
+                        <option v-for="venue in venues" :value="venue">{{venue}}</option>
+                    </select>
+                </p>
+
+                <p v-show="encounters.length > 0"> Find the encounter to load:</p>
+                <p v-show="encounters.length > 0">
+                    <select>
+                        <option>-- First Monster --</option>
+                        <option v-for="monster in firstMonsters" :value="monster" @click="setEncounter(0, monster)">{{monster}}</option>
+                    </select>
+                </p>
+
+                <p v-show="encounters.length > 0">
+                    <select v-show="secondMonsters.length > 0">
+                        <option>-- Second Monster --</option>
+                        <option v-for="monster in secondMonsters" :value="monster" @click="setEncounter(1, monster)">{{monster}}</option>
+                    </select>
+                </p>
+
+                <p v-show="encounters.length > 0">
+                    <select v-show="thirdMonsters.length > 0">
+                        <option>-- Third Monster --</option>
+                        <option v-for="monster in thirdMonsters" :value="monster" @click="setEncounter(2, monster)">{{monster}}</option>
+                    </select>
+                </p>
+
+                <p v-show="encounters.length > 0">
+                    <select v-show="fourthMonsters.length > 0">
+                        <option>-- Fourth Monster --</option>
+                        <option v-for="monster in fourthMonsters" :value="monster" @click="setEncounter(3, monster)">{{monster}}</option>
+                    </select>
+                </p>
+
+                <p v-show="encounters.length > 0">
+                    <button v-show="isValidEncounter" type="button" @click="addEncounter">Load Encounter</button>
+                </p>
+            </div>
+
+            <div v-show="addType === 'monster'">
+                <h4>Load Single Monster</h4>
+                <p>Choose a venue:
+                <select @change="loadMonsters($event.target.value)">
+                    <option>-- Select --</option>
+                    <option v-for="venue in venues" :value="venue">{{venue}}</option>
+                </select>
+                </p>
+
+                <p v-show="loadedMonsters.length > 0">Choose a monster to add:
+                    <select>
+                        <option>-- Select --</option>
+                        <option v-for="mon in loadedMonsters" @click="addMonster(mon.name, mon.quickness)">{{mon.name}}</option>
+                    </select>
+                </p>
+            </div>
+
+            <div v-show="addType === 'custom'">
+                <h4>Create Custom Monster</h4>
+                <p>Name: <input type="text" v-model="newMonster.name"></p>
+                <p>QCK: <input type="number" v-model="newMonster.quickness"></p>
+                <p><button type="button" @click="addCustomMonster">Add</button></p>
+            </div>
+        </div>
+
+        <div class="pure-u bottom">
+            <p>Number of rounds: <input class="inline-input" type="number" max="50" v-model="numRounds"></p>
+            <button type="button" @click="calculateTurns"><h4 class="button-label">Calculate Turn Order</h4></button>
+
+            <div v-show="turnsCalculated">
+                <h3>Turn Order</h3>
+                <ol>
+                    <li v-for="item in turns">{{item}}</li>
+                </ol>
+            </div>
+        </div>
+    </div>
+    <script src="https://cdn.jsdelivr.net/npm/vue@2.6.12"></script>
+    <script src="https://unpkg.com/papaparse@5.3.0/papaparse.min.js"></script>
+    <script src="app.js"></script>
+</body>
+</html>
